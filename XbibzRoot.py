@@ -2599,7 +2599,7 @@ echo "Starting flash..."
             updatesceh = "https://raw.githubusercontent.com/Habibzz01/UpdateTools-/refs/heads/main/XbibzRoot.py"
             
             # Dapatkan versi saat ini
-            current_version = "1.5"
+            current_version = "2.0"
             
             # Dapatkan versi terbaru dari GitHub
             self.start_animation("Menghubungi server...")
