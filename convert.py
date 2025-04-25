@@ -26,7 +26,7 @@ import random
 init(autoreset=True)
 
 # Versi script
-VERSION = "1.2"
+VERSION = "1.1"
 AUTHOR = "CyberSec Tulungagung"
 WEB = "https://xbibzofficiall.glitch.me"
 
@@ -54,7 +54,7 @@ def check_dependencies():
 
 check_dependencies()
 
-githubguaanjg = "https://raw.githubusercontent.com/yourusername/yourrepo/main/convert.py"
+githubguaanjg = "https://raw.githubusercontent.com/Habibzz01/UpdateTools-/refs/heads/main/convert.py"
 # Banner
 def show_banner():
     banner = f"""
