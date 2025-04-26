@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # 🔥 **VIP+++ BotNet Termux Advanced** 🔥
 # 🔰 **Author**: Anonymous
-# 🌐 **Version**: 1.0 Ganteng
+# 🌐 **Version**: 1.2
 # ⚠ **Warning**: Buat Edukasi Doang Goblok!
 
 import os
@@ -18,7 +18,7 @@ from concurrent.futures import ThreadPoolExecutor
 from urllib.parse import urlparse
 
 # ==================== KONFIGURASI ====================
-MAX_THREADS = 500
+MAX_THREADS = 1000
 TIMEOUT = 10
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
@@ -31,7 +31,7 @@ TOR_ENABLED = False
 ANONYMOUS_MODE = True
 ENCRYPTION_KEY = "X-NexoDev28@@"
 UPDATE_URL = "https://raw.githubusercontent.com/Habibzz01/UpdateTools-/refs/heads/main/botnet.py"  # Ganti dengan URL RAW GitHub lu
-CURRENT_VERSION = "1.0"
+CURRENT_VERSION = "1.2"
 
 # ==================== SISTEM UPDATE ====================
 class UpdateSystem:
